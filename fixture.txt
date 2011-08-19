@@ -1,0 +1,8 @@
+Rondônia	1100015	Alta Floresta D'Oeste
+Rondônia	1100023	Ariquemes
+Rondônia	1100031	Cabixi
+Pará	1500107	Abaetetuba
+Pará	1500131	Abel Figueiredo
+Pará	1500206	Acará
+Pará	1500305	Afuá
+Distrito Federal	5300108	Brasília
